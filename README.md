@@ -1,1 +1,1 @@
-# KindredAndroidPackages
+# Kindred Android Packages
